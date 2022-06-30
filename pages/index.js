@@ -34,7 +34,7 @@ export default function Home() {
           name="description"
           content="Responsive weather app built with Next.js"
         />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/weather.ico" />
       </Head>
 
       <div className="absolute top-0 left-0 right-0 bottom-0 bg-black/30 z-[-1]" />
